@@ -13,4 +13,4 @@
 * Google Sheets
 
 ## Featured Notebook
-* [Weather Trends Analysis](https://dpghazi.github.io/projects/weather-trends-analysis.html](https://github.com/dpghazi/weather-trends-analysis/blob/main/Explore_Weather_Trends.pdf)
+* [Weather Trends Analysis](https://github.com/dpghazi/weather-trends-analysis/blob/main/Explore_Weather_Trends.pdf)
